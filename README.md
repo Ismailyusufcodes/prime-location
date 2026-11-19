@@ -1,5 +1,7 @@
 # Prime Location
 
+**Live site:** https://ismailyusufcodes.github.io/prime-location/
+
 A single-page marketing site for **Prime Location**, a Lagos real-estate company.
 Built as a static site — plain HTML, CSS and JavaScript with no build step — so it
 can be hosted for free on GitHub Pages and opened on any phone, tablet or desktop.

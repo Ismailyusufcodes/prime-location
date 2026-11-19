@@ -1,0 +1,34 @@
+{
+  "hero-lagos": { "key": "third-mainland-bridge-lagos-03", "fx": 0.5, "fy": 0.55 },
+  "card-development": { "key": "cat-lagos-island-38", "fx": 0.5, "fy": 0.55 },
+  "about-portrait": { "key": "cat-ikoyi-11", "fx": 0.5, "fy": 0.62 },
+  "cta-building": { "key": "lekki-lagos-buildings-09", "fx": 0.5, "fy": 0.5 },
+
+  "hood-lekki": { "key": "cat-lekki-22", "fx": 0.5, "fy": 0.5 },
+  "hood-ikoyi": { "key": "cat-ikoyi-10", "fx": 0.5, "fy": 0.5 },
+  "hood-vi": { "key": "lagos-island-aerial-08", "fx": 0.45, "fy": 0.5 },
+  "hood-ikeja": { "key": "ikeja-lagos-03", "fx": 0.5, "fy": 0.5 },
+  "hood-yaba": { "key": "yaba-lagos-06", "fx": 0.5, "fy": 0.5 },
+  "hood-banana": { "key": "cat-lagos-island-32", "fx": 0.5, "fy": 0.55 },
+  "hood-surulere": { "key": "lagos-national-theatre-03", "fx": 0.5, "fy": 0.5 },
+  "hood-ajah": { "key": "ajah-lagos-00", "fx": 0.5, "fy": 0.55 },
+
+  "prop-eko": { "key": "lagos-island-aerial-08", "fx": 0.45, "fy": 0.62 },
+  "prop-marina": { "key": "lagos-island-aerial-06", "fx": 0.5, "fy": 0.45 },
+  "prop-lekki": { "key": "lekki-lagos-buildings-05", "fx": 0.5, "fy": 0.5 },
+  "prop-ikoyi": { "key": "cat-ikoyi-03", "fx": 0.5, "fy": 0.4 },
+
+  "cap-1": { "key": "lekki-lagos-buildings-02", "fx": 0.5, "fy": 0.45 },
+  "cap-2": { "key": "cat-ikoyi-03", "fx": 0.5, "fy": 0.55 },
+  "cap-3": { "key": "cat-lekki-18", "fx": 0.62, "fy": 0.55 },
+  "cap-4": { "key": "eko-atlantic-03", "fx": 0.55, "fy": 0.45 },
+  "cap-5": { "key": "cat-lagos-island-38", "fx": 0.35, "fy": 0.5 },
+
+  "news-1": { "key": "cat-lekki-18", "fx": 0.45, "fy": 0.5 },
+  "news-2": { "key": "cat-lekki-22", "fx": 0.4, "fy": 0.5 },
+  "news-3": { "key": "cat-lagos-island-32", "fx": 0.55, "fy": 0.6 },
+
+  "tile-shot": { "key": "q-lagos-nigeria-house-01", "fx": 0.5, "fy": 0.45 },
+  "tile-interior": { "key": "cat-lekki-18", "fx": 0.35, "fy": 0.55 },
+  "tile-people": { "key": "cat-lagos-island-02", "fx": 0.42, "fy": 0.45 }
+}

@@ -1,0 +1,8 @@
+# Large local source recordings (not used by the site)
+screencapture-*.png
+Screenity video - *.mp4
+
+# Python
+__pycache__/
+*.pyc
+.env
